@@ -1,0 +1,298 @@
+perl 4cseqpipe.pl -build_re_db -first_cutter GATC -second_cutters GTAC -trackdb_root trackdb/mm9_trackdb
+perl 4cseqpipe.pl -build_re_db -first_cutter GATC -second_cutters GTAC -trackdb_root trackdb/mm9_trackdb
+perl 4cseqpipe.pl -fastq2raw -ids 3 -fastq_fn /f/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/GSM4293963.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 3
+perl 4cseqpipe.pl -nearcis -calc_from 8895474 -calc_to 9095474 -stat_type median -trend_resolution 5000 -ids 3 -figure_fn GSM4293963_100000.png
+perl 4cseqpipe.pl -build_re_db -first_cutter GATC -second_cutters GTAC -trackdb_root trackdb/mm9_trackdb
+perl 4cseqpipe.pl -fastq2raw -ids 3 -fastq_fn /f/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/GSM4293963.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 3
+perl 4cseqpipe.pl -nearcis -calc_from 8895474 -calc_to 9095474 -stat_type median -trend_resolution 5000 -ids 3 -figure_fn GSM4293963_100000.png
+perl 4cseqpipe.pl -build_re_db -first_cutter GATC -second_cutters GTAC -trackdb_root trackdb/mm9_trackdb
+perl 4cseqpipe.pl -fastq2raw -ids 3 -fastq_fn /f/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/GSM4293963.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 3
+perl 4cseqpipe.pl -nearcis -calc_from 8895474 -calc_to 9095474 -stat_type median -trend_resolution 5000 -ids 3 -figure_fn GSM4293963_100000.png
+perl 4cseqpipe.pl -fastq2raw -ids 3 -fastq_fn /f/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/GSM4293963.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 3
+perl 4cseqpipe.pl -nearcis -calc_from 8895474 -calc_to 9095474 -stat_type median -trend_resolution 5000 -ids 3 -figure_fn GSM4293963_100000.png
+perl 4cseqpipe.pl -fastq2raw -ids 3 -fastq_fn /f/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/GSM4293963.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 3
+perl 4cseqpipe.pl -nearcis -calc_from 8895474 -calc_to 9095474 -stat_type median -trend_resolution 5000 -ids 3 -figure_fn GSM4293963_100000.png
+perl 4cseqpipe.pl -fastq2raw -ids 3 -fastq_fn /f/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/GSM4293963.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 3
+perl 4cseqpipe.pl -nearcis -calc_from 8895474 -calc_to 9095474 -stat_type median -trend_resolution 5000 -ids 3 -figure_fn GSM4293963_100000.png
+perl 4cseqpipe.pl -fastq2raw -ids 3 -fastq_fn /f/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/GSM4293963.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 3
+perl 4cseqpipe.pl -nearcis -calc_from 8895474 -calc_to 9095474 -stat_type median -trend_resolution 5000 -ids 3 -figure_fn GSM4293963_100000.png
+perl 4cseqpipe.pl -fastq2raw -ids 3 -fastq_fn /f/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/GSM4293963.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 3
+perl 4cseqpipe.pl -nearcis -calc_from 8895474 -calc_to 9095474 -stat_type median -trend_resolution 5000 -ids 3 -figure_fn GSM4293963_100000.png
+perl 4cseqpipe.pl -fastq2raw -ids 3 -fastq_fn /f/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/GSM4293963.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 3
+perl 4cseqpipe.pl -nearcis -calc_from 8895474 -calc_to 9095474 -stat_type median -trend_resolution 5000 -ids 3 -figure_fn GSM4293963_100000.png
+perl 4cseqpipe.pl -fastq2raw -ids 3 -fastq_fn /f/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/GSM4293963.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 3
+perl 4cseqpipe.pl -nearcis -calc_from 8895474 -calc_to 9095474 -stat_type median -trend_resolution 5000 -ids 3 -figure_fn GSM4293963_100000.png
+perl 4cseqpipe.pl -fastq2raw -ids 3 -fastq_fn /f/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/GSM4293963.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 3
+perl 4cseqpipe.pl -nearcis -calc_from 8895474 -calc_to 9095474 -stat_type median -trend_resolution 5000 -ids 3 -figure_fn GSM4293963_100000.png
+perl 4cseqpipe.pl -build_re_db -first_cutter GATC -second_cutters GTAC -trackdb_root trackdb/mm9_trackdb
+perl 4cseqpipe.pl -fastq2raw -ids 3 -fastq_fn /h/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/GSM4293963.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 3
+perl 4cseqpipe.pl -nearcis -calc_from 8895474 -calc_to 9095474 -stat_type median -trend_resolution 5000 -ids 3 -figure_fn GSM4293963_100000.png
+perl 4cseqpipe.pl -fastq2raw -ids 4 -fastq_fn /h/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/GSM4293996.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 4
+perl 4cseqpipe.pl -nearcis -calc_from 8895474 -calc_to 9095474 -stat_type median -trend_resolution 5000 -ids 4 -figure_fn GSM4293996_100000.png
+perl 4cseqpipe.pl -fastq2raw -ids 4 -fastq_fn /h/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/GSM4293996.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 4
+perl 4cseqpipe.pl -nearcis -calc_from 8895474 -calc_to 9095474 -stat_type median -trend_resolution 5000 -ids 4 -figure_fn GSM4293996_100000.png
+perl 4cseqpipe.pl -fastq2raw -ids 4 -fastq_fn /h/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/GSM4293996.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 4
+perl 4cseqpipe.pl -nearcis -calc_from 8895474 -calc_to 9095474 -stat_type median -trend_resolution 5000 -ids 4 -figure_fn GSM4293996_100000.png
+perl 4cseqpipe.pl -fastq2raw -ids 4 -fastq_fn /h/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/GSM4293996.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 4
+perl 4cseqpipe.pl -nearcis -calc_from 8895474 -calc_to 9095474 -stat_type median -trend_resolution 5000 -ids 4 -figure_fn GSM4293996_100000.png
+perl 4cseqpipe.pl -fastq2raw -ids 4 -fastq_fn /h/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/GSM4293996.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 4
+perl 4cseqpipe.pl -nearcis -calc_from 8895474 -calc_to 9095474 -stat_type median -trend_resolution 5000 -ids 4 -figure_fn GSM4293996_100000.png
+perl 4cseqpipe.pl -fastq2raw -ids 4 -fastq_fn /h/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/GSM4293996.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 4
+perl 4cseqpipe.pl -nearcis -calc_from 8895474 -calc_to 9095474 -stat_type median -trend_resolution 5000 -ids 4 -figure_fn GSM4293996_100000.png
+perl 4cseqpipe.pl -nearcis -calc_from 8495474 -calc_to 9495474 -stat_type median -trend_resolution 5000 -ids 4 -figure_fn GSM4293996_500000.png
+perl 4cseqpipe.pl -nearcis -calc_from 8495474 -calc_to 9495474 -stat_type median -trend_resolution 5000 -ids 4 -figure_fn GSM4293996_500000.png
+perl 4cseqpipe.pl -fastq2raw -ids 5 -fastq_fn /h/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/GSM996246.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 5
+perl 4cseqpipe.pl -nearcis -calc_from 32085894 -calc_to 32285894 -stat_type median -trend_resolution 5000 -ids 5 -figure_fn GSM996246_100000.png
+perl 4cseqpipe.pl -fastq2raw -ids 6 -fastq_fn /h/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/GSM996247.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 6
+perl 4cseqpipe.pl -nearcis -calc_from 32085894 -calc_to 32285894 -stat_type median -trend_resolution 5000 -ids 6 -figure_fn GSM996247_100000.png
+perl 4cseqpipe.pl -fastq2raw -ids 7 -fastq_fn /h/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/GSM4293955.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 7
+perl 4cseqpipe.pl -nearcis -calc_from 8895474 -calc_to 9095474 -stat_type median -trend_resolution 5000 -ids 7 -figure_fn GSM4293955_100000.png
+perl 4cseqpipe.pl -fastq2raw -ids 3 -fastq_fn /h/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/GSM4293963.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 3
+perl 4cseqpipe.pl -nearcis -calc_from 8895474 -calc_to 9095474 -stat_type median -trend_resolution 5000 -ids 3 -figure_fn GSM4293963_100000.png
+perl 4cseqpipe.pl -fastq2raw -ids 4 -fastq_fn /h/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/GSM4293996.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 4
+perl 4cseqpipe.pl -nearcis -calc_from 8895474 -calc_to 9095474 -stat_type median -trend_resolution 5000 -ids 4 -figure_fn GSM4293996_100000.png
+perl 4cseqpipe.pl -fastq2raw -ids 8 -fastq_fn /h/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/GSM4293975.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 8
+perl 4cseqpipe.pl -nearcis -calc_from 8895474 -calc_to 9095474 -stat_type median -trend_resolution 5000 -ids 8 -figure_fn GSM4293975_100000.png
+perl 4cseqpipe.pl -build_re_db -first_cutter GATC -second_cutters GTAC -trackdb_root trackdb/hg19_trackdb
+perl 4cseqpipe.pl -fastq2raw -ids 9 -fastq_fn /h/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/GSM4141354.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 9
+perl 4cseqpipe.pl -nearcis -calc_from 54854445 -calc_to 55054445 -stat_type median -trend_resolution 5000 -ids 9 -figure_fn GSM4141354_100000.png
+perl 4cseqpipe.pl -fastq2raw -ids 10 -fastq_fn /h/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/GSM4141359.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 10
+perl 4cseqpipe.pl -nearcis -calc_from 54854445 -calc_to 55054445 -stat_type median -trend_resolution 5000 -ids 10 -figure_fn GSM4141359_100000.png
+perl 4cseqpipe.pl -build_re_db -first_cutter GATC -second_cutters CTAG -trackdb_root trackdb/hg19_trackdb
+perl 4cseqpipe.pl -fastq2raw -ids 11 -fastq_fn /h/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/GSM4455561.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 11
+perl 4cseqpipe.pl -nearcis -calc_from 229472804 -calc_to 229672804 -stat_type median -trend_resolution 5000 -ids 11 -figure_fn GSM4455561_100000.png
+perl 4cseqpipe.pl -fastq2raw -ids 12 -fastq_fn /h/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/GSM4455562.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 12
+perl 4cseqpipe.pl -nearcis -calc_from 229472804 -calc_to 229672804 -stat_type median -trend_resolution 5000 -ids 12 -figure_fn GSM4455562_100000.png
+perl 4cseqpipe.pl -fastq2raw -ids 13 -fastq_fn /h/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/GSM4455563.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 13
+perl 4cseqpipe.pl -nearcis -calc_from 229472804 -calc_to 229672804 -stat_type median -trend_resolution 5000 -ids 13 -figure_fn GSM4455563_100000.png
+perl 4cseqpipe.pl -fastq2raw -ids 14 -fastq_fn /h/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/GSM4455564.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 14
+perl 4cseqpipe.pl -nearcis -calc_from 229472804 -calc_to 229672804 -stat_type median -trend_resolution 5000 -ids 14 -figure_fn GSM4455564_100000.png
+perl 4cseqpipe.pl -fastq2raw -ids 15 -fastq_fn /h/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/GSM4455565.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 15
+perl 4cseqpipe.pl -nearcis -calc_from 229472804 -calc_to 229672804 -stat_type median -trend_resolution 5000 -ids 15 -figure_fn GSM4455565_100000.png
+perl 4cseqpipe.pl -fastq2raw -ids 16 -fastq_fn /h/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/GSM4455566.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 16
+perl 4cseqpipe.pl -nearcis -calc_from 229472804 -calc_to 229672804 -stat_type median -trend_resolution 5000 -ids 16 -figure_fn GSM4455566_100000.png
+perl 4cseqpipe.pl -fastq2raw -ids 10 -fastq_fn /h/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/GSM4141359.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 10
+perl 4cseqpipe.pl -nearcis -calc_from 54854445 -calc_to 55054445 -stat_type median -trend_resolution 5000 -ids 10 -figure_fn GSM4141359_100000.png
+perl 4cseqpipe.pl -fastq2raw -ids 10 -fastq_fn /h/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/GSM4141359.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 10
+perl 4cseqpipe.pl -nearcis -calc_from 54854445 -calc_to 55054445 -stat_type median -trend_resolution 5000 -ids 10 -figure_fn GSM4141359_100000.png
+perl 4cseqpipe.pl -fastq2raw -ids 17 -fastq_fn /h/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/GSM996248.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 17
+perl 4cseqpipe.pl -nearcis -calc_from 32085894 -calc_to 32285894 -stat_type median -trend_resolution 5000 -ids 17 -figure_fn GSM996248_100000.png
+perl 4cseqpipe.pl -nearcis -calc_from 31685894 -calc_to 32685894 -stat_type median -trend_resolution 5000 -ids 5 -figure_fn GSM996246_500000.png
+perl 4cseqpipe.pl -nearcis -calc_from 31685894 -calc_to 32685894 -stat_type median -trend_resolution 5000 -ids 17 -figure_fn GSM996248_500000.png
+perl 4cseqpipe.pl -nearcis -calc_from 8495474 -calc_to 9495474 -stat_type median -trend_resolution 5000 -ids 7 -figure_fn GSM4293955_500000.png
+perl 4cseqpipe.pl -nearcis -calc_from 8495474 -calc_to 9495474 -stat_type median -trend_resolution 5000 -ids 3 -figure_fn GSM4293963_500000.png
+perl 4cseqpipe.pl -nearcis -calc_from 8495474 -calc_to 9495474 -stat_type median -trend_resolution 5000 -ids 4 -figure_fn GSM4293996_500000.png
+perl 4cseqpipe.pl -nearcis -calc_from 8495474 -calc_to 9495474 -stat_type median -trend_resolution 5000 -ids 8 -figure_fn GSM4293975_500000.png
+perl 4cseqpipe.pl -nearcis -calc_from 54454445 -calc_to 55454445 -stat_type median -trend_resolution 5000 -ids 9 -figure_fn GSM4141354_500000.png
+perl 4cseqpipe.pl -nearcis -calc_from 54454445 -calc_to 55454445 -stat_type median -trend_resolution 5000 -ids 10 -figure_fn GSM4141359_500000.png
+perl 4cseqpipe.pl -nearcis -calc_from 229072804 -calc_to 230072804 -stat_type median -trend_resolution 5000 -ids 11 -figure_fn GSM4455561_500000.png
+perl 4cseqpipe.pl -nearcis -calc_from 229072804 -calc_to 230072804 -stat_type median -trend_resolution 5000 -ids 12 -figure_fn GSM4455562_500000.png
+perl 4cseqpipe.pl -nearcis -calc_from 229072804 -calc_to 230072804 -stat_type median -trend_resolution 5000 -ids 13 -figure_fn GSM4455563_500000.png
+perl 4cseqpipe.pl -nearcis -calc_from 229072804 -calc_to 230072804 -stat_type median -trend_resolution 5000 -ids 14 -figure_fn GSM4455564_500000.png
+perl 4cseqpipe.pl -nearcis -calc_from 229072804 -calc_to 230072804 -stat_type median -trend_resolution 5000 -ids 15 -figure_fn GSM4455565_500000.png
+perl 4cseqpipe.pl -nearcis -calc_from 229072804 -calc_to 230072804 -stat_type median -trend_resolution 5000 -ids 16 -figure_fn GSM4455566_500000.png
+perl 4cseqpipe.pl -nearcis -calc_from 8495474 -calc_to 9495474 -stat_type median -trend_resolution 5000 -ids 7 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/GSM4293955_500000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 8495474 -calc_to 9495474 -stat_type median -trend_resolution 5000 -ids 3 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/GSM4293963_500000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 8495474 -calc_to 9495474 -stat_type median -trend_resolution 5000 -ids 4 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/GSM4293996_500000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 8495474 -calc_to 9495474 -stat_type median -trend_resolution 5000 -ids 8 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/GSM4293975_500000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 54454445 -calc_to 55454445 -stat_type median -trend_resolution 5000 -ids 9 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/GSM4141354_500000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 8495474 -calc_to 9495474 -stat_type median -trend_resolution 5000 -ids 7 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/GSM4293955_500000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 8495474 -calc_to 9495474 -stat_type median -trend_resolution 5000 -ids 3 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/GSM4293963_500000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 8495474 -calc_to 9495474 -stat_type median -trend_resolution 5000 -ids 4 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/GSM4293996_500000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 8495474 -calc_to 9495474 -stat_type median -trend_resolution 5000 -ids 8 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/GSM4293975_500000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 54454445 -calc_to 55454445 -stat_type median -trend_resolution 5000 -ids 9 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/GSM4141354_500000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 54454445 -calc_to 55454445 -stat_type median -trend_resolution 5000 -ids 10 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/GSM4141359_500000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 229072804 -calc_to 230072804 -stat_type median -trend_resolution 5000 -ids 11 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/GSM4455561_500000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 229072804 -calc_to 230072804 -stat_type median -trend_resolution 5000 -ids 12 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/GSM4455562_500000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 229072804 -calc_to 230072804 -stat_type median -trend_resolution 5000 -ids 13 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/GSM4455563_500000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 229072804 -calc_to 230072804 -stat_type median -trend_resolution 5000 -ids 14 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/GSM4455564_500000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 229072804 -calc_to 230072804 -stat_type median -trend_resolution 5000 -ids 15 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/GSM4455565_500000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 229072804 -calc_to 230072804 -stat_type median -trend_resolution 5000 -ids 16 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/GSM4455566_500000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 229372804 -calc_to 229772804 -stat_type median -trend_resolution 5000 -ids 15 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/GSM4455565_200000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 229372804 -calc_to 229772804 -stat_type median -trend_resolution 5000 -ids 16 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/GSM4455566_200000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 229372804 -calc_to 229772804 -stat_type median -trend_resolution 5000 -ids 15 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/GSM4455565_200000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 229372804 -calc_to 229772804 -stat_type median -trend_resolution 5000 -ids 16 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/GSM4455566_200000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 229372804 -calc_to 229772804 -stat_type median -trend_resolution 5000 -ids 15 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/GSM4455565_200000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 229372804 -calc_to 229772804 -stat_type median -trend_resolution 5000 -ids 16 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/GSM4455566_200000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 229472804 -calc_to 229672804 -stat_type median -trend_resolution 5000 -ids 15 -figure_fn 1.png
+perl 4cseqpipe.pl -nearcis -calc_from 229472804 -calc_to 229672804 -stat_type median -trend_resolution 5000 -ids 15 -figure_fn 1.pdf
+perl 4cseqpipe.pl -build_re_db -first_cutter CATG -second_cutters GTAC -trackdb_root trackdb/hg19_trackdb
+perl 4cseqpipe.pl -fastq2raw -ids 18 -fastq_fn /h/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/P10.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 18
+perl 4cseqpipe.pl -nearcis -calc_from 21873800 -calc_to 22073800 -stat_type median -trend_resolution 5000 -ids 18 -figure_fn P10_100000.png
+perl 4cseqpipe.pl -nearcis -calc_from 21773800 -calc_to 22173800 -stat_type median -trend_resolution 5000 -ids 18 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/P10_200000.pdf
+perl 4cseqpipe.pl -fastq2raw -ids 19 -fastq_fn /h/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/P27.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 19
+perl 4cseqpipe.pl -nearcis -calc_from 21873800 -calc_to 22073800 -stat_type median -trend_resolution 5000 -ids 19 -figure_fn P27_100000.png
+perl 4cseqpipe.pl -nearcis -calc_from 21773800 -calc_to 22173800 -stat_type median -trend_resolution 5000 -ids 19 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/P27_200000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 229372804 -calc_to 229772804 -stat_type median -trend_resolution 5000 -ids 15 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/GSM4455565_200000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 229372804 -calc_to 229772804 -stat_type median -trend_resolution 5000 -ids 16 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/GSM4455566_200000.pdf
+perl 4cseqpipe.pl -fastq2raw -ids 20 -fastq_fn /h/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/P27-G-rep1.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 20
+perl 4cseqpipe.pl -nearcis -calc_from 21773800 -calc_to 22173800 -stat_type median -trend_resolution 5000 -ids 20 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/P27-G-rep1_200000.pdf
+perl 4cseqpipe.pl -fastq2raw -ids 21 -fastq_fn /h/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/P27-G-rep2.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 21
+perl 4cseqpipe.pl -nearcis -calc_from 21773800 -calc_to 22173800 -stat_type median -trend_resolution 5000 -ids 21 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/P27-G-rep2_200000.pdf
+perl 4cseqpipe.pl -fastq2raw -ids 22 -fastq_fn /h/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/P27-A-rep1.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 22
+perl 4cseqpipe.pl -nearcis -calc_from 21773800 -calc_to 22173800 -stat_type median -trend_resolution 5000 -ids 22 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/P27-A-rep1_200000.pdf
+perl 4cseqpipe.pl -fastq2raw -ids 23 -fastq_fn /h/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/P27-A-rep2.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 23
+perl 4cseqpipe.pl -nearcis -calc_from 21773800 -calc_to 22173800 -stat_type median -trend_resolution 5000 -ids 23 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/P27-A-rep2_200000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 21473800 -calc_to 22473800 -stat_type median -trend_resolution 5000 -ids 22 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/P27-A-rep1_500000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 21473800 -calc_to 22473800 -stat_type median -trend_resolution 5000 -ids 23 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/P27-A-rep2_500000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 21473800 -calc_to 22473800 -stat_type median -trend_resolution 5000 -ids 20 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/P27-G-rep1_500000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 21473800 -calc_to 22473800 -stat_type median -trend_resolution 5000 -ids 21 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/P27-G-rep2_500000.pdf
+perl 4cseqpipe.pl -build_re_db -first_cutter AAGCTT -second_cutters GTAC -trackdb_root trackdb/hg19_trackdb
+perl 4cseqpipe.pl -fastq2raw -ids 24 -fastq_fn /h/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/rs10486567-A-rep1.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 24
+perl 4cseqpipe.pl -nearcis -calc_from 27476309 -calc_to 28476309 -stat_type median -trend_resolution 5000 -ids 24 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/rs10486567-A-rep1_500000.pdf
+perl 4cseqpipe.pl -fastq2raw -ids 25 -fastq_fn /h/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/rs10486567-A-rep2.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 25
+perl 4cseqpipe.pl -nearcis -calc_from 27476309 -calc_to 28476309 -stat_type median -trend_resolution 5000 -ids 25 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/rs10486567-A-rep2_500000.pdf
+perl 4cseqpipe.pl -fastq2raw -ids 26 -fastq_fn /h/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/rs10486567-G-rep1.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 26
+perl 4cseqpipe.pl -nearcis -calc_from 27476309 -calc_to 28476309 -stat_type median -trend_resolution 5000 -ids 26 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/rs10486567-G-rep1_500000.pdf
+perl 4cseqpipe.pl -fastq2raw -ids 27 -fastq_fn /h/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/rs10486567-G-rep2.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 27
+perl 4cseqpipe.pl -nearcis -calc_from 27476309 -calc_to 28476309 -stat_type median -trend_resolution 5000 -ids 27 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/rs10486567-G-rep2_500000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 27476309 -calc_to 28476309 -stat_type median -trend_resolution 5000 -ids 24 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/rs10486567-A-rep1_500000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 27476309 -calc_to 28476309 -stat_type median -trend_resolution 5000 -ids 25 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/rs10486567-A-rep2_500000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 27476309 -calc_to 28476309 -stat_type median -trend_resolution 5000 -ids 26 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/rs10486567-G-rep1_500000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 27476309 -calc_to 28476309 -stat_type median -trend_resolution 5000 -ids 27 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/rs10486567-G-rep2_500000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 26976309 -calc_to 28976309 -stat_type median -trend_resolution 5000 -ids 24 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/rs10486567-A-rep1_1000000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 26976309 -calc_to 28976309 -stat_type median -trend_resolution 5000 -ids 25 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/rs10486567-A-rep2_1000000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 26976309 -calc_to 28976309 -stat_type median -trend_resolution 5000 -ids 26 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/rs10486567-G-rep1_1000000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 26976309 -calc_to 28976309 -stat_type median -trend_resolution 5000 -ids 27 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/rs10486567-G-rep2_1000000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 26976309 -calc_to 28976309 -stat_type median -trend_resolution 5000 -ids 24 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/rs10486567-A-rep1_1000000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 26976309 -calc_to 28976309 -stat_type median -trend_resolution 5000 -ids 25 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/rs10486567-A-rep2_1000000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 26976309 -calc_to 28976309 -stat_type median -trend_resolution 5000 -ids 26 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/rs10486567-G-rep1_1000000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 26976309 -calc_to 28976309 -stat_type median -trend_resolution 5000 -ids 27 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/rs10486567-G-rep2_1000000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 26976309 -calc_to 28976309 -stat_type median -trend_resolution 5000 -ids 24 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/rs10486567-A-rep1_1000000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 26976309 -calc_to 28976309 -stat_type median -trend_resolution 5000 -ids 25 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/rs10486567-A-rep2_1000000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 26976309 -calc_to 28976309 -stat_type median -trend_resolution 5000 -ids 26 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/rs10486567-G-rep1_1000000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 26976309 -calc_to 28976309 -stat_type median -trend_resolution 5000 -ids 27 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/rs10486567-G-rep2_1000000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 26976309 -calc_to 28976309 -stat_type median -trend_resolution 5000 -ids 24 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/rs10486567-A-rep1_1000000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 26976309 -calc_to 28976309 -stat_type median -trend_resolution 5000 -ids 25 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/rs10486567-A-rep2_1000000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 26976309 -calc_to 28976309 -stat_type median -trend_resolution 5000 -ids 26 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/rs10486567-G-rep1_1000000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 26976309 -calc_to 28976309 -stat_type median -trend_resolution 5000 -ids 27 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/rs10486567-G-rep2_1000000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 26976309 -calc_to 28976309 -stat_type median -trend_resolution 5000 -ids 24 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/rs10486567-A-rep1_1000000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 26976309 -calc_to 28976309 -stat_type median -trend_resolution 5000 -ids 25 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/rs10486567-A-rep2_1000000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 26976309 -calc_to 28976309 -stat_type median -trend_resolution 5000 -ids 26 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/rs10486567-G-rep1_1000000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 26976309 -calc_to 28976309 -stat_type median -trend_resolution 5000 -ids 27 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/rs10486567-G-rep2_1000000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 26976309 -calc_to 28976309 -stat_type median -trend_resolution 5000 -ids 24 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/rs10486567-A-rep1_1000000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 26976309 -calc_to 28976309 -stat_type median -trend_resolution 5000 -ids 25 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/rs10486567-A-rep2_1000000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 26976309 -calc_to 28976309 -stat_type median -trend_resolution 5000 -ids 26 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/rs10486567-G-rep1_1000000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 26976309 -calc_to 28976309 -stat_type median -trend_resolution 5000 -ids 27 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/rs10486567-G-rep2_1000000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 26976309 -calc_to 28976309 -stat_type median -trend_resolution 5000 -ids 24 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/rs10486567-A-rep1_1000000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 26976309 -calc_to 28976309 -stat_type median -trend_resolution 5000 -ids 25 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/rs10486567-A-rep2_1000000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 26976309 -calc_to 28976309 -stat_type median -trend_resolution 5000 -ids 26 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/rs10486567-G-rep1_1000000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 26976309 -calc_to 28976309 -stat_type median -trend_resolution 5000 -ids 27 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/rs10486567-G-rep2_1000000.pdf
+perl 4cseqpipe.pl -fastq2raw -ids 22 -fastq_fn /h/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/P27-A-rep1.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 22
+perl 4cseqpipe.pl -nearcis -calc_from 20973800 -calc_to 22973800 -stat_type median -trend_resolution 5000 -ids 22 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/P27-A-rep1_1000000.pdf
+perl 4cseqpipe.pl -fastq2raw -ids 23 -fastq_fn /h/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/P27-A-rep2.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 23
+perl 4cseqpipe.pl -nearcis -calc_from 20973800 -calc_to 22973800 -stat_type median -trend_resolution 5000 -ids 23 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/P27-A-rep2_1000000.pdf
+perl 4cseqpipe.pl -fastq2raw -ids 20 -fastq_fn /h/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/P27-G-rep1.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 20
+perl 4cseqpipe.pl -nearcis -calc_from 20973800 -calc_to 22973800 -stat_type median -trend_resolution 5000 -ids 20 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/P27-G-rep1_1000000.pdf
+perl 4cseqpipe.pl -fastq2raw -ids 21 -fastq_fn /h/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/P27-G-rep2.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 21
+perl 4cseqpipe.pl -nearcis -calc_from 20973800 -calc_to 22973800 -stat_type median -trend_resolution 5000 -ids 21 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/P27-G-rep2_1000000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 21473800 -calc_to 22473800 -stat_type median -trend_resolution 5000 -ids 22 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/P27-A-rep1_500000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 21473800 -calc_to 22473800 -stat_type median -trend_resolution 5000 -ids 23 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/P27-A-rep2_500000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 21473800 -calc_to 22473800 -stat_type median -trend_resolution 5000 -ids 20 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/P27-G-rep1_500000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 21473800 -calc_to 22473800 -stat_type median -trend_resolution 5000 -ids 21 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/P27-G-rep2_500000.pdf
+perl 4cseqpipe.pl -fastq2raw -ids 18 -fastq_fn /h/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/P10.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 18
+perl 4cseqpipe.pl -nearcis -calc_from 21473800 -calc_to 22473800 -stat_type median -trend_resolution 5000 -ids 18 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/P10_500000.pdf
+perl 4cseqpipe.pl -fastq2raw -ids 19 -fastq_fn /h/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/P27.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 19
+perl 4cseqpipe.pl -nearcis -calc_from 21473800 -calc_to 22473800 -stat_type median -trend_resolution 5000 -ids 19 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/P27_500000.pdf
+perl 4cseqpipe.pl -build_re_db -first_cutter AAGCTT -second_cutters CATG -trackdb_root trackdb/hg19_trackdb
+perl 4cseqpipe.pl -fastq2raw -ids 28 -fastq_fn /h/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/PTEN.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 28
+perl 4cseqpipe.pl -nearcis -calc_from 89410858 -calc_to 90410858 -stat_type median -trend_resolution 5000 -ids 28 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/PTEN_500000.pdf
+perl 4cseqpipe.pl -fastq2raw -ids 29 -fastq_fn /h/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/PTEN_s100.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 29
+perl 4cseqpipe.pl -nearcis -calc_from 89410858 -calc_to 90410858 -stat_type median -trend_resolution 5000 -ids 29 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/PTEN_s100_500000.pdf
+perl 4cseqpipe.pl -fastq2raw -ids 30 -fastq_fn /h/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/PTEN_s200.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 30
+perl 4cseqpipe.pl -nearcis -calc_from 89410858 -calc_to 90410858 -stat_type median -trend_resolution 5000 -ids 30 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/PTEN_s200_500000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 88910858 -calc_to 90910858 -stat_type median -trend_resolution 5000 -ids 29 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/PTEN_s100_1000000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 88910858 -calc_to 90910858 -stat_type median -trend_resolution 5000 -ids 30 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/PTEN_s200_1000000.pdf
+perl 4cseqpipe.pl -fastq2raw -ids 18 -fastq_fn /h/jianhua/jianhua_pipeline/4C/pipeline/dist_fq/P10.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 18
+perl 4cseqpipe.pl -nearcis -calc_from 21473800 -calc_to 22473800 -stat_type median -trend_resolution 5000 -ids 18 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/P10_500000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 21473800 -calc_to 22473800 -stat_type median -trend_resolution 5000 -ids 18 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/P10_500000.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 21473800 -calc_to 22473800 -stat_type median -trend_resolution 5000 -ids 19 -figure_fn /h/jianhua/jianhua_pipeline/4C/pipeline/plots/4cpipe/P27_500000.pdf
+perl 4cseqpipe.pl -build_re_db -first_cutter CATG -second_cutters AAGCTT -trackdb_root trackdb/hg19_trackdb
+perl 4cseqpipe.pl -fastq2raw -ids 31 -fastq_fn /h/jianhua/jianhua_pipeline/4C/dist_fq/PVT1-4C-1.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 31
+perl 4cseqpipe.pl -nearcis -calc_from 128307764 -calc_to 129307764 -stat_type median -trend_resolution 5000 -ids 31 -figure_fn /h/jianhua/jianhua_pipeline/4C/plots/4cpipe/PVT1-4C-1_500000.pdf
+perl 4cseqpipe.pl -fastq2raw -ids 32 -fastq_fn /h/jianhua/jianhua_pipeline/4C/dist_fq/PVT1-4C-2.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 32
+perl 4cseqpipe.pl -nearcis -calc_from 128307764 -calc_to 129307764 -stat_type median -trend_resolution 5000 -ids 32 -figure_fn /h/jianhua/jianhua_pipeline/4C/plots/4cpipe/PVT1-4C-2_500000.pdf
+perl 4cseqpipe.pl -fastq2raw -ids 31 -fastq_fn /h/jianhua/jianhua_pipeline/4C/dist_fq/PVT1-4C-1.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 31
+perl 4cseqpipe.pl -nearcis -calc_from 128307764 -calc_to 129307764 -stat_type median -trend_resolution 5000 -ids 31 -figure_fn /h/jianhua/jianhua_pipeline/4C/plots/4cpipe/PVT1-4C-1_500000.pdf
+perl 4cseqpipe.pl -fastq2raw -ids 32 -fastq_fn /h/jianhua/jianhua_pipeline/4C/dist_fq/PVT1-4C-2.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 32
+perl 4cseqpipe.pl -nearcis -calc_from 128307764 -calc_to 129307764 -stat_type median -trend_resolution 5000 -ids 32 -figure_fn /h/jianhua/jianhua_pipeline/4C/plots/4cpipe/PVT1-4C-2_500000.pdf
+perl 4cseqpipe.pl -fastq2raw -ids 33 -fastq_fn /h/jianhua/jianhua_pipeline/4C/dist_fq/PVT1-4C-3.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 33
+perl 4cseqpipe.pl -nearcis -calc_from 128307764 -calc_to 129307764 -stat_type median -trend_resolution 5000 -ids 33 -figure_fn /h/jianhua/jianhua_pipeline/4C/plots/4cpipe/PVT1-4C-3_500000.pdf
+perl 4cseqpipe.pl -fastq2raw -ids 34 -fastq_fn /h/jianhua/jianhua_pipeline/4C/dist_fq/PVT1-4C-pam-1.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 34
+perl 4cseqpipe.pl -nearcis -calc_from 128307764 -calc_to 129307764 -stat_type median -trend_resolution 5000 -ids 34 -figure_fn /h/jianhua/jianhua_pipeline/4C/plots/4cpipe/PVT1-4C-pam-1_500000.pdf
+perl 4cseqpipe.pl -fastq2raw -ids 35 -fastq_fn /h/jianhua/jianhua_pipeline/4C/dist_fq/PVT1-4C-pam-2.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 35
+perl 4cseqpipe.pl -nearcis -calc_from 128307764 -calc_to 129307764 -stat_type median -trend_resolution 5000 -ids 35 -figure_fn /h/jianhua/jianhua_pipeline/4C/plots/4cpipe/PVT1-4C-pam-2_500000.pdf
+perl 4cseqpipe.pl -fastq2raw -ids 36 -fastq_fn /h/jianhua/jianhua_pipeline/4C/dist_fq/PVT1-4C-NEW-1.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 36
+perl 4cseqpipe.pl -nearcis -calc_from 128307764 -calc_to 129307764 -stat_type median -trend_resolution 5000 -ids 36 -figure_fn /h/jianhua/jianhua_pipeline/4C/plots/4cpipe/PVT1-4C-NEW-1_500000.pdf
+perl 4cseqpipe.pl -fastq2raw -ids 37 -fastq_fn /h/jianhua/jianhua_pipeline/4C/dist_fq/PVT1-4C-NEW-2.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 37
+perl 4cseqpipe.pl -nearcis -calc_from 128307764 -calc_to 129307764 -stat_type median -trend_resolution 5000 -ids 37 -figure_fn /h/jianhua/jianhua_pipeline/4C/plots/4cpipe/PVT1-4C-NEW-2_500000.pdf
+perl 4cseqpipe.pl -fastq2raw -ids 38 -fastq_fn /h/jianhua/jianhua_pipeline/4C/dist_fq/PVT1-4C-MC4C1.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 38
+perl 4cseqpipe.pl -nearcis -calc_from 128307764 -calc_to 129307764 -stat_type median -trend_resolution 5000 -ids 38 -figure_fn /h/jianhua/jianhua_pipeline/4C/plots/4cpipe/PVT1-4C-MC4C1_500000.pdf
+perl 4cseqpipe.pl -fastq2raw -ids 39 -fastq_fn /h/jianhua/jianhua_pipeline/4C/dist_fq/PVT1-4C-MC4C2.4cseq.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 39
+perl 4cseqpipe.pl -nearcis -calc_from 128307764 -calc_to 129307764 -stat_type median -trend_resolution 5000 -ids 39 -figure_fn /h/jianhua/jianhua_pipeline/4C/plots/4cpipe/PVT1-4C-MC4C2_500000.pdf
